@@ -27,7 +27,7 @@
   .section-container {
     display: block;
   }
-  .arrow {
+  #arrow {
     display: none;
   }
   section,
