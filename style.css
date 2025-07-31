@@ -382,8 +382,8 @@ article .icon {
 }
 
 .color-container {
-  border-color: rgb(163, 163, 163);
-  background: rgb(250, 250, 250);
+  border-color: #888888;
+  background: #444444;
 }
 
 .project-img {
@@ -394,12 +394,13 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: #e0e0e0;
 }
 
 .project-btn {
-  color: black;
-  border-color: rgb(163, 163, 163);
+  color: #E0E0E0;
+  border-color: #888888;
+  background-color: #121212;
 }
 
 /* CONTACT */
